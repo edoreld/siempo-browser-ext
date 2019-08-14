@@ -119,8 +119,8 @@ function getLocalStorage() {
       var stickyChange = (switch_ons + 2) / 2;
       if (isNaN(stickyChange) || stickyChange < 1) {
         stickyMultiplier = 1;
-      } else if (stickyChange > 16) {
-        stickyMultiplier = 16;
+      } else if (stickyChange > 8) {
+        stickyMultiplier = 32;
       } else {
         stickyMultiplier = stickyChange;
       }
