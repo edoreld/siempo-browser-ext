@@ -1,13 +1,9 @@
-# Shift by Siempo
+# Fork of Shift by Siempo
 
 
 Shift is a browser extension that gives you a nudge when you spend too much time on distracting websites, and provides a new tab with an intention, to help you focus on what matters.
 
-
-<a href="https://chrome.google.com/webstore/detail/nudge-by-siempo/hjoookglknijcfdlbcfnehfhicbknemj"><img src="https://developer.chrome.com/webstore/images/ChromeWebStore_Badge_v2_340x96.png" height="60"></a>
-
-> [Sign up to help](https://docs.google.com/forms/d/1-hqfeXyy8FcCCMX8CZHTRO54enZCf5TMY_ATzScbqaM/) with this project or [join our Discord if you have questions](https://discord.gg/KWZRMRs)
-
+This fork removes the option to hide nudges and makes sliders harder to... slide. 
 
 How does it work?
 ------------
