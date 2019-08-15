@@ -3,7 +3,9 @@
 
 Shift is a browser extension that gives you a nudge when you spend too much time on distracting websites, and provides a new tab with an intention, to help you focus on what matters.
 
-This fork removes the option to hide nudges and makes sliders harder to... slide. 
+This fork removes the option to hide nudges and makes sliders harder to... slide. Otherwise, it's just the same.
+
+To install, you need to enable Developer mode on Chrome and then drag the project's directory to your extensions page.
 
 How does it work?
 ------------
